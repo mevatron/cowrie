@@ -1,0 +1,8 @@
+00:00.0 Host bridge: Intel Corporation 82G33/G31/P35/P31 Express DRAM Controller
+00:01.0 VGA compatible controller: Device 1234:1111 (rev 02)
+00:02.0 SCSI storage controller: Red Hat, Inc. Virtio SCSI
+00:03.0 SCSI storage controller: Red Hat, Inc. Virtio SCSI
+00:04.0 Ethernet controller: Red Hat, Inc. Virtio network device
+00:1f.0 ISA bridge: Intel Corporation 82801IB (ICH9) LPC Interface Controller (rev 02)
+00:1f.2 SATA controller: Intel Corporation 82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode] (rev 02)
+00:1f.3 SMBus: Intel Corporation 82801I (ICH9 Family) SMBus Controller (rev 02)
